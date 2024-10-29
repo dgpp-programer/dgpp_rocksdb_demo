@@ -8,6 +8,8 @@ mkdir build
 
 cd build
 
+cmake ../
+
 make
 
 ./dgpp_rocskdb
